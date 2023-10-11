@@ -4,10 +4,13 @@
 
 **2. AWS basic ( MLOPS tools )**
 
-3. Linux Basic Commands
-4. GIT - CodeCommit - Source code Management
-5. YAML Crash Course
-6. AWS CodeBuild
+**3. Linux Basic Commands**
+
+**4. GIT - CodeCommit - Source code Management**
+
+**5. YAML Crash Course**
+
+**6. AWS CodeBuild**
    - start building code build project
    - details about buildspec.yml
    - creating an env variable for a code build project
@@ -20,5 +23,5 @@
    - Event pattern> targeting code build project
    - So if I change anything in my code commit > it will automatically trigger the code build
      
-**Extra:**
+Extra:
  - Learned How to set up a repository with SSH configuration.
