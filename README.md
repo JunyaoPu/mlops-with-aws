@@ -25,3 +25,7 @@
      
 Extra:
  - Learned How to set up a repository with SSH configuration.
+
+**7. AWS CodeDeploy**
+  - Two types of deployment. One is **In-Place** and **Blue-Green**
+  - Code version > Code Deployment > in to my server
