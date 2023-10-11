@@ -17,5 +17,6 @@
    - Amazon EventBridge > rules > event patern / Schedule
    - Event pattern> targeting code build project
    - So if I change anything in my code commit > it will automatically triggered the code build
+     
 **Extra:**
  - Learned How to set up a repository with SSH configuration.
