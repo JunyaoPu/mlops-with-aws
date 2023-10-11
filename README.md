@@ -10,5 +10,5 @@
    - details about buildspec.yml
    - creating env variable for codebuild project
    - printing default env variable in AWS
-   - creating parameter on AWS System Mangaer
+   - creating parameter on AWS System Mangaer > Parameter Store
    - accesing parameer from IAM > codebuild project roles > create inline policy > to give the permission of GetParameters
