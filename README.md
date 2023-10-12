@@ -35,3 +35,8 @@ Extra:
   - Step 3: code revision is pushed to S3
   - Step 4: The deployment group decides which instances to deploy, how to deploy, and which version to deploy
   - Step 5: Deploy the application in Ec2
+
+**7. AWS CodePipeline**
+  - each pipeline stage can create Artifacts
+  - Artifacts are passed stored in Amazon S3 and passed on to the next stage
+  - trigger > CodeCommit > CodeDeploy > Code Repository > deploy
