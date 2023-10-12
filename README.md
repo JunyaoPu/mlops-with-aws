@@ -29,3 +29,9 @@ Extra:
 **7. AWS CodeDeploy**
   - Two types of deployment. One is **In-Place** and **Blue-Green**
   - Code version > Code Deployment > in to my server
+  - Step 1: create ec2 instances to read source code from s3 bucket
+  - SSM - Allow deployment group to install/update code deploy agent
+  - Step 2: Create application in code deploy
+  - Step 3: code revision is pushed to S3
+  - Step 4: The deployment group decides which instances to deploy, how to deploy, and which version to deploy
+  - Step 5: Deploy the application in Ec2
