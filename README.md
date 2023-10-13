@@ -59,5 +59,10 @@ Extra:
   - File > New > Data Wrangler Flow > rename the Data Wrangler Flow > Import Data > S3 > Sampling - None ( to import all data ) > click the back button - Data flow
   - Data Flow - Source > Data types > edit ( to edit the data types if needed)
   - **Data Quatlity & Insight Report**
-  - data types > + button > data analysis > analysis type, name, target column
-  - 
+  - data types > + button > data analysis > analysis type - 
+  - Target Leakage - we can say which column we have to drop OR which column is less important for prediction
+  - **Data Transformation**
+  - Data Cleaning/ Pre-Processing based on the Data Quality and Insight Report
+  - Balance data || Manage column - drop column || Outliers || Seearch and edit || encode categorcial
+  - Custom Data Transformation
+  - A Python file (custom-transformer.py
