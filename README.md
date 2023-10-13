@@ -66,3 +66,5 @@ Extra:
   - Balance data || Manage column - drop column || Outliers || Seearch and edit || encode categorcial
   - Custom Data Transformation
   - A Python file (custom-transformer.py
+  - **Export S3**
+  - Create Job
