@@ -47,3 +47,7 @@ Extra:
   - Work from the notebook, but not on the notebook
   - Jupyter-friendly env
   - train/deploy easily
+
+**11. AWS SageMaker Basic**
+  - Data Collection > Integration > Preparation & Cleaning > Visualization
+  - Feature Engineering > Model Training & Hyperparameter tuning > Evaluation > Deployment
