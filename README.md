@@ -42,3 +42,8 @@ Extra:
   - trigger > CodeCommit > CodeDeploy > Code Repository > deploy
 
 **9. Docker Basic**
+
+**10. AWS SageMaker Basic**
+  - Work from the notebook, but not on the notebook
+  - Jupyter-friendly env
+  - train/deploy easily
