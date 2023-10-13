@@ -51,3 +51,13 @@ Extra:
 **11. AWS SageMaker Basic**
   - Data Collection > Integration > Preparation & Cleaning > Visualization
   - Feature Engineering > Model Training & Hyperparameter tuning > Evaluation > Deployment
+
+**12. AWS SageMaker - Feature Engineering**
+  - create S3 bucket > Upload necessary CSV file in S3
+  - Open Studio in SageMaker
+  - **Data Wrangler Setup**
+  - File > New > Data Wrangler Flow > rename the Data Wrangler Flow > Import Data > S3 > Sampling - None ( to import all data ) > click the back button - Data flow
+  - Data Flow - Source > Data types > edit ( to edit the data types if needed)
+  - **Data Quatlity & Insight Report**
+  - data types > + button > data analysis > analysis type, name, target column
+  - 
